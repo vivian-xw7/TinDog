@@ -1,2 +1,2 @@
 # TinDog
-Udemy assignment
+Udemy assignment, parody of Tinder
